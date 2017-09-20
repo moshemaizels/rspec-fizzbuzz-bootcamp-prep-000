@@ -6,6 +6,6 @@ elsif int % 3 == 0
 elsif int % 5 == 0
   puts "Buzz"
 else
-  return nil 
+  return nil
 end 
 end
