@@ -1,4 +1,3 @@
 def fizzbuzz(int)
   
-
 end
